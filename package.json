@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3",
-    "yu-carousel": "^1.0.1"
+    "yu-carousel": "^1.0.3"
   }
 }
