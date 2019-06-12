@@ -1,0 +1,16 @@
+{
+  "name": "yu-carousel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sunny586/yu-carousel.git",
+  "author": "张宇 <313283928@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel example/index.html",
+    "build": "parcel build example/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "yu-carousel": "^1.0.1"
+  }
+}
