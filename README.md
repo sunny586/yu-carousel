@@ -61,7 +61,7 @@ new Carousel({
 
  配置项 | 类型 | 描述 | 默认值
 --------|---------|-------|-----
- el | String | 目标容器选择器
+ el | [String, Object] | 容器选择器,  容器的根节点dom对象
  width | Number | 容器宽度
  height | Number | 容器高度
  scale | Number | 触发翻页的拖动宽度的比例 | 0.5
